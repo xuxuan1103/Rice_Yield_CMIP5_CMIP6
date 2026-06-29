@@ -1,0 +1,4 @@
+requirements.txtmatplotlib
+numpy
+pandas
+scipy
